@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudhakar-1104/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/sudhakar-1104/Leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
