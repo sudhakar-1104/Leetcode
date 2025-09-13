@@ -58,4 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sudhakar-1104/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sudhakar-1104/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sudhakar-1104/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sudhakar-1104/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
