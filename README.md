@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Memoization
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudhakar-1104/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/sudhakar-1104/Leetcode/tree/master/0046-permutations) |
+| [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Trie
 |  |
 | ------- |
@@ -78,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/sudhakar-1104/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0655-print-binary-tree](https://github.com/sudhakar-1104/Leetcode/tree/master/0655-print-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
