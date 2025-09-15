@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudhakar-1104/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sudhakar-1104/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sudhakar-1104/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sudhakar-1104/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/sudhakar-1104/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sudhakar-1104/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/sudhakar-1104/Leetcode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudhakar-1104/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sudhakar-1104/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Database
 |  |
 | ------- |
