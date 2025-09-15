@@ -43,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/sudhakar-1104/Leetcode/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudhakar-1104/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/sudhakar-1104/Leetcode/tree/master/0046-permutations) |
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
 ## Trie
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
