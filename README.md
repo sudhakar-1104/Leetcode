@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sudhakar-1104/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0092-reverse-linked-list-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
