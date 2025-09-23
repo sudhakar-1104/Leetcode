@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sudhakar-1104/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudhakar-1104/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/sudhakar-1104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/sudhakar-1104/Leetcode/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sudhakar-1104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/sudhakar-1104/Leetcode/tree/master/0044-wildcard-matching) |
 ## Tree
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sudhakar-1104/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/sudhakar-1104/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
