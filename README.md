@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sudhakar-1104/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sudhakar-1104/Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/sudhakar-1104/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sudhakar-1104/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sudhakar-1104/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sudhakar-1104/Leetcode/tree/master/0069-sqrtx) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sudhakar-1104/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudhakar-1104/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/sudhakar-1104/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sudhakar-1104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/sudhakar-1104/Leetcode/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/sudhakar-1104/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
