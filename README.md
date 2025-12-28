@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
+| [0704-binary-search](https://github.com/sudhakar-1104/Leetcode/tree/master/0704-binary-search) |
 ## Trie
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sudhakar-1104/Leetcode/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/sudhakar-1104/Leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
