@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/sudhakar-1104/Leetcode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/sudhakar-1104/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sudhakar-1104/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sudhakar-1104/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sudhakar-1104/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sudhakar-1104/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sudhakar-1104/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sudhakar-1104/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sudhakar-1104/Leetcode/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
