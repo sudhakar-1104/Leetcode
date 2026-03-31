@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/sudhakar-1104/Leetcode/tree/master/0178-rank-scores) |
 | [0197-rising-temperature](https://github.com/sudhakar-1104/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/sudhakar-1104/Leetcode/tree/master/0577-employee-bonus) |
+| [1341-movie-rating](https://github.com/sudhakar-1104/Leetcode/tree/master/1341-movie-rating) |
 ## Backtracking
 |  |
 | ------- |
