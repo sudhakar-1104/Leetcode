@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/sudhakar-1104/Leetcode/tree/master/0135-candy) |
 | [0289-game-of-life](https://github.com/sudhakar-1104/Leetcode/tree/master/0289-game-of-life) |
 | [0704-binary-search](https://github.com/sudhakar-1104/Leetcode/tree/master/0704-binary-search) |
 ## Trie
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/sudhakar-1104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/sudhakar-1104/Leetcode/tree/master/0135-candy) |
 ## Binary Search
 |  |
 | ------- |
