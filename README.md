@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/sudhakar-1104/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/sudhakar-1104/Leetcode/tree/master/0135-candy) |
 | [0289-game-of-life](https://github.com/sudhakar-1104/Leetcode/tree/master/0289-game-of-life) |
 | [0321-create-maximum-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0321-create-maximum-number) |
