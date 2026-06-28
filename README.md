@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0704-binary-search](https://github.com/sudhakar-1104/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0724-find-pivot-index) |
 | [0853-car-fleet](https://github.com/sudhakar-1104/Leetcode/tree/master/0853-car-fleet) |
 ## Trie
 |  |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0324-wiggle-sort-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
