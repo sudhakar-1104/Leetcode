@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudhakar-1104/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/sudhakar-1104/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/sudhakar-1104/Leetcode/tree/master/0146-lru-cache) |
+| [0791-custom-sort-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0791-custom-sort-string) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sudhakar-1104/Leetcode/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
 | [0402-remove-k-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0402-remove-k-digits) |
+| [0791-custom-sort-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0791-custom-sort-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0018-4sum) |
 | [0324-wiggle-sort-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0561-array-partition](https://github.com/sudhakar-1104/Leetcode/tree/master/0561-array-partition) |
+| [0791-custom-sort-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0791-custom-sort-string) |
 | [0853-car-fleet](https://github.com/sudhakar-1104/Leetcode/tree/master/0853-car-fleet) |
 | [1094-car-pooling](https://github.com/sudhakar-1104/Leetcode/tree/master/1094-car-pooling) |
 ## Quickselect
