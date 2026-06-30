@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudhakar-1104/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/sudhakar-1104/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0112-path-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/sudhakar-1104/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/sudhakar-1104/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0655-print-binary-tree](https://github.com/sudhakar-1104/Leetcode/tree/master/0655-print-binary-tree) |
@@ -146,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudhakar-1104/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sudhakar-1104/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/sudhakar-1104/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0655-print-binary-tree](https://github.com/sudhakar-1104/Leetcode/tree/master/0655-print-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sudhakar-1104/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0655-print-binary-tree](https://github.com/sudhakar-1104/Leetcode/tree/master/0655-print-binary-tree) |
 ## Binary Tree
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudhakar-1104/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/sudhakar-1104/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0112-path-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/sudhakar-1104/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/sudhakar-1104/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0655-print-binary-tree](https://github.com/sudhakar-1104/Leetcode/tree/master/0655-print-binary-tree) |
