@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sudhakar-1104/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/sudhakar-1104/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
+| [0338-counting-bits](https://github.com/sudhakar-1104/Leetcode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
