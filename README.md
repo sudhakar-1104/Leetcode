@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sudhakar-1104/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0118-pascals-triangle) |
+| [0174-dungeon-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0174-dungeon-game) |
 | [0338-counting-bits](https://github.com/sudhakar-1104/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/sudhakar-1104/Leetcode/tree/master/0135-candy) |
+| [0174-dungeon-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0174-dungeon-game) |
 | [0274-h-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/sudhakar-1104/Leetcode/tree/master/0289-game-of-life) |
 | [0321-create-maximum-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0321-create-maximum-number) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sudhakar-1104/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/sudhakar-1104/Leetcode/tree/master/0289-game-of-life) |
 ## Monotonic Stack
 |  |
