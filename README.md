@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sudhakar-1104/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0402-remove-k-digits) |
+| [0488-zuma-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0488-zuma-game) |
 | [0791-custom-sort-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0791-custom-sort-string) |
 ## Dynamic Programming
 |  |
@@ -66,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0174-dungeon-game) |
 | [0338-counting-bits](https://github.com/sudhakar-1104/Leetcode/tree/master/0338-counting-bits) |
+| [0488-zuma-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
+| [0488-zuma-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sudhakar-1104/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/sudhakar-1104/Leetcode/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/sudhakar-1104/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0488-zuma-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0488-zuma-game) |
 | [0655-print-binary-tree](https://github.com/sudhakar-1104/Leetcode/tree/master/0655-print-binary-tree) |
 ## Binary Tree
 |  |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/sudhakar-1104/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0321-create-maximum-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0402-remove-k-digits) |
+| [0488-zuma-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0488-zuma-game) |
 | [0853-car-fleet](https://github.com/sudhakar-1104/Leetcode/tree/master/0853-car-fleet) |
 ## Matrix
 |  |
