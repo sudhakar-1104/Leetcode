@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sudhakar-1104/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/sudhakar-1104/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
 ## Array
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sudhakar-1104/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sudhakar-1104/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/sudhakar-1104/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sudhakar-1104/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/sudhakar-1104/Leetcode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
