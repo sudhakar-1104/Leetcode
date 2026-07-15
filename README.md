@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sudhakar-1104/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sudhakar-1104/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0258-add-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/sudhakar-1104/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sudhakar-1104/Leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/sudhakar-1104/Leetcode/tree/master/0289-game-of-life) |
 | [1094-car-pooling](https://github.com/sudhakar-1104/Leetcode/tree/master/1094-car-pooling) |
 ## Design
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/sudhakar-1104/Leetcode/tree/master/0649-dota2-senate) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
