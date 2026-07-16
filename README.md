@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/sudhakar-1104/Leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/sudhakar-1104/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/sudhakar-1104/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0724-find-pivot-index) |
 | [0853-car-fleet](https://github.com/sudhakar-1104/Leetcode/tree/master/0853-car-fleet) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/sudhakar-1104/Leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/sudhakar-1104/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/sudhakar-1104/Leetcode/tree/master/0649-dota2-senate) |
 | [0738-monotone-increasing-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
