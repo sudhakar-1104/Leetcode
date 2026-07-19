@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sudhakar-1104/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sudhakar-1104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/sudhakar-1104/Leetcode/tree/master/0058-length-of-last-word) |
+| [0087-scramble-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sudhakar-1104/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sudhakar-1104/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
