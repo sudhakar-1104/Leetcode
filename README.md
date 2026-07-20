@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0724-find-pivot-index) |
 | [0853-car-fleet](https://github.com/sudhakar-1104/Leetcode/tree/master/0853-car-fleet) |
 | [1094-car-pooling](https://github.com/sudhakar-1104/Leetcode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/sudhakar-1104/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Trie
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/sudhakar-1104/Leetcode/tree/master/0289-game-of-life) |
+| [1260-shift-2d-grid](https://github.com/sudhakar-1104/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/sudhakar-1104/Leetcode/tree/master/0289-game-of-life) |
 | [1094-car-pooling](https://github.com/sudhakar-1104/Leetcode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/sudhakar-1104/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Design
 |  |
 | ------- |
