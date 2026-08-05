@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/sudhakar-1104/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/sudhakar-1104/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0655-print-binary-tree](https://github.com/sudhakar-1104/Leetcode/tree/master/0655-print-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/sudhakar-1104/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/sudhakar-1104/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0488-zuma-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0488-zuma-game) |
 | [0655-print-binary-tree](https://github.com/sudhakar-1104/Leetcode/tree/master/0655-print-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/sudhakar-1104/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sudhakar-1104/Leetcode/tree/master/0207-course-schedule) |
+| [3310-remove-methods-from-project](https://github.com/sudhakar-1104/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
