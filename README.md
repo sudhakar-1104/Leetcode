@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0738-monotone-increasing-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0738-monotone-increasing-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sudhakar-1104/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -371,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sudhakar-1104/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
