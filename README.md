@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0738-monotone-increasing-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudhakar-1104/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sudhakar-1104/Leetcode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0791-custom-sort-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sudhakar-1104/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sudhakar-1104/Leetcode/tree/master/0649-dota2-senate) |
 | [0738-monotone-increasing-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0258-add-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
