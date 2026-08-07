@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/sudhakar-1104/Leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/sudhakar-1104/Leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sudhakar-1104/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sudhakar-1104/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/sudhakar-1104/Leetcode/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sudhakar-1104/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/sudhakar-1104/Leetcode/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudhakar-1104/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sudhakar-1104/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0148-sort-list](https://github.com/sudhakar-1104/Leetcode/tree/master/0148-sort-list) |
 | [0321-create-maximum-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0321-create-maximum-number) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
 ## Simulation
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/sudhakar-1104/Leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/sudhakar-1104/Leetcode/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0561-array-partition](https://github.com/sudhakar-1104/Leetcode/tree/master/0561-array-partition) |
