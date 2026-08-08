@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sudhakar-1104/Leetcode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0791-custom-sort-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sudhakar-1104/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sudhakar-1104/Leetcode/tree/master/0338-counting-bits) |
 | [0488-zuma-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0509-fibonacci-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sudhakar-1104/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sudhakar-1104/Leetcode/tree/master/0649-dota2-senate) |
 | [0738-monotone-increasing-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sudhakar-1104/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sudhakar-1104/Leetcode/tree/master/0148-sort-list) |
 | [0321-create-maximum-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0321-create-maximum-number) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sudhakar-1104/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
