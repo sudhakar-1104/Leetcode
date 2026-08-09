@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0738-monotone-increasing-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0738-monotone-increasing-digits) |
+| [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudhakar-1104/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sudhakar-1104/Leetcode/tree/master/0338-counting-bits) |
 | [0488-zuma-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0509-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sudhakar-1104/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0724-find-pivot-index) |
 | [0853-car-fleet](https://github.com/sudhakar-1104/Leetcode/tree/master/0853-car-fleet) |
 | [1094-car-pooling](https://github.com/sudhakar-1104/Leetcode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/sudhakar-1104/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Trie
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/sudhakar-1104/Leetcode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -391,4 +395,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudhakar-1104/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
