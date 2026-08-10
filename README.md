@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sudhakar-1104/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sudhakar-1104/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/sudhakar-1104/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sudhakar-1104/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudhakar-1104/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sudhakar-1104/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/sudhakar-1104/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/sudhakar-1104/Leetcode/tree/master/0148-sort-list) |
 | [0321-create-maximum-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0321-create-maximum-number) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/sudhakar-1104/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sudhakar-1104/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sudhakar-1104/Leetcode/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -410,4 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sudhakar-1104/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sudhakar-1104/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
