@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0791-custom-sort-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/sudhakar-1104/Leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/sudhakar-1104/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0791-custom-sort-string) |
 | [0853-car-fleet](https://github.com/sudhakar-1104/Leetcode/tree/master/0853-car-fleet) |
 | [1094-car-pooling](https://github.com/sudhakar-1104/Leetcode/tree/master/1094-car-pooling) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quickselect
 |  |
 | ------- |
