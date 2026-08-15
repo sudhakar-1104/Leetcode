@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sudhakar-1104/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sudhakar-1104/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/sudhakar-1104/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sudhakar-1104/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sudhakar-1104/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sudhakar-1104/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sudhakar-1104/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sudhakar-1104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/sudhakar-1104/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sudhakar-1104/Leetcode/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sudhakar-1104/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sudhakar-1104/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sudhakar-1104/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/sudhakar-1104/Leetcode/tree/master/0338-counting-bits) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sudhakar-1104/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sudhakar-1104/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/sudhakar-1104/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/sudhakar-1104/Leetcode/tree/master/0289-game-of-life) |
 | [1094-car-pooling](https://github.com/sudhakar-1104/Leetcode/tree/master/1094-car-pooling) |
