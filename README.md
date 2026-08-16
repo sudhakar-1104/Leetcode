@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sudhakar-1104/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sudhakar-1104/Leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudhakar-1104/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/sudhakar-1104/Leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/sudhakar-1104/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2029-stone-game-ix](https://github.com/sudhakar-1104/Leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sudhakar-1104/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sudhakar-1104/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sudhakar-1104/Leetcode/tree/master/0649-dota2-senate) |
 | [0738-monotone-increasing-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
+| [2029-stone-game-ix](https://github.com/sudhakar-1104/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sudhakar-1104/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/sudhakar-1104/Leetcode/tree/master/0561-array-partition) |
+| [2029-stone-game-ix](https://github.com/sudhakar-1104/Leetcode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -432,16 +436,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sudhakar-1104/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sudhakar-1104/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sudhakar-1104/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sudhakar-1104/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sudhakar-1104/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sudhakar-1104/Leetcode/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
 | ------- |
@@ -454,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sudhakar-1104/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sudhakar-1104/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
