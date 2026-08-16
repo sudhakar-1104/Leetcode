@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sudhakar-1104/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sudhakar-1104/Leetcode/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/sudhakar-1104/Leetcode/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0791-custom-sort-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sudhakar-1104/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/sudhakar-1104/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sudhakar-1104/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0402-remove-k-digits) |
 | [0488-zuma-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0488-zuma-game) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sudhakar-1104/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sudhakar-1104/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sudhakar-1104/Leetcode/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/sudhakar-1104/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0561-array-partition](https://github.com/sudhakar-1104/Leetcode/tree/master/0561-array-partition) |
