@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sudhakar-1104/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sudhakar-1104/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sudhakar-1104/Leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/sudhakar-1104/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sudhakar-1104/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sudhakar-1104/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sudhakar-1104/Leetcode/tree/master/0069-sqrtx) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sudhakar-1104/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/sudhakar-1104/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sudhakar-1104/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0070-climbing-stairs) |
@@ -473,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sudhakar-1104/Leetcode/tree/master/1510-stone-game-iv) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sudhakar-1104/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
