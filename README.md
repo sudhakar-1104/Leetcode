@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sudhakar-1104/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sudhakar-1104/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/sudhakar-1104/Leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/sudhakar-1104/Leetcode/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/sudhakar-1104/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sudhakar-1104/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/sudhakar-1104/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sudhakar-1104/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0402-remove-k-digits) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sudhakar-1104/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/sudhakar-1104/Leetcode/tree/master/0338-counting-bits) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sudhakar-1104/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0140-word-break-ii) |
 | [0488-zuma-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/sudhakar-1104/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/sudhakar-1104/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0140-word-break-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0140-word-break-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
@@ -171,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sudhakar-1104/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/sudhakar-1104/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/sudhakar-1104/Leetcode/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/sudhakar-1104/Leetcode/tree/master/0274-h-index) |
@@ -199,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudhakar-1104/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/sudhakar-1104/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/sudhakar-1104/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Linked List
 |  |
