@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sudhakar-1104/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sudhakar-1104/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/sudhakar-1104/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sudhakar-1104/Leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sudhakar-1104/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudhakar-1104/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sudhakar-1104/Leetcode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/sudhakar-1104/Leetcode/tree/master/0791-custom-sort-string) |
+| [1927-sum-game](https://github.com/sudhakar-1104/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhakar-1104/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sudhakar-1104/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/sudhakar-1104/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/sudhakar-1104/Leetcode/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/sudhakar-1104/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/sudhakar-1104/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sudhakar-1104/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sudhakar-1104/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sudhakar-1104/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sudhakar-1104/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sudhakar-1104/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/sudhakar-1104/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sudhakar-1104/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
